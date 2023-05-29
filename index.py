@@ -9,4 +9,4 @@ intents.members = True
 
 bot = commands.Bot(command_prefix="!a", intents=intents)
 
-bot.run('token')
+bot.run(token)
